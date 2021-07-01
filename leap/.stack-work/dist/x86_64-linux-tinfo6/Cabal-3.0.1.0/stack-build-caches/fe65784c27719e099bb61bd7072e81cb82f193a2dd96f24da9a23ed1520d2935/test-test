@@ -1,0 +1,14 @@
+/root/exercism/haskell/leap/test/Tests.hs:
+  hash: f0e23b421ae686bb35398eb1b91ca2717b945e25cac3203aaa89d09c9ca8cde0
+/root/exercism/haskell/leap/leap.cabal:
+  hash: aaabfb0f449ea4b4a6c9213e383a96672cc79366eb779e8ad5780747a9548f98
+/root/exercism/haskell/leap/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/test/autogen/Paths_leap.hs:
+  hash: f0ef1f62abaffd8075550a8bb66cb475d4100e260eaf0fd813a0c0f99f21ccb4
+/root/exercism/haskell/leap/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/test/autogen/cabal_macros.h:
+  hash: e19c87b1fb4c2e1e00d8edbb4b16ea5b90b20e8987ed20115ff839cca88e97f9
+/root/.stack/programs/x86_64-linux/ghc-tinfo6-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
+/usr/include/stdc-predef.h:
+  hash: 7afa7fcfd2a1ac2d5fe86672db5828460a736519680da0b9fac4d91e5f227817
+/root/exercism/haskell/leap/package.yaml:
+  hash: 741adae21e7fab15e96ec98d318f3ec9cbc33dc86f419cd56cd829d6c64a1c54
